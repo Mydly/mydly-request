@@ -1,0 +1,26 @@
+{
+  "name": "mydly-request",
+  "version": "1.0.0",
+  "description": "request",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mydly/mydly-request.git"
+  },
+  "keywords": [
+    "request"
+  ],
+  "author": "Mydly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mydly/mydly-request/issues"
+  },
+  "homepage": "https://github.com/Mydly/mydly-request#readme",
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.83.0"
+  }
+}
